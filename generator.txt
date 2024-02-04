@@ -1,4 +1,4 @@
-For Creating Files Directly in VS Code we can use Express Generator
+For Creating the backend files Directly in VS Code we can use Express Generator
 
 Step 1 = Open CMD
 
