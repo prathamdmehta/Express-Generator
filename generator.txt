@@ -1,0 +1,9 @@
+For Creating Files Directly in VS Code we can use Express Generator
+
+Step 1 = Open CMD
+Step 2 = Change current directory to Desktop (cd Desktop) if you cannot excess Desktop directly than first target the "One-Drive" and than target Desktop
+Step 3 = Install Express Generator GLOBALLY using npm (npm i express-generator -g)
+Step 4 = Create the project by starting with the name of the project you wanna give (express appname --view=ejs)
+Step 5 = cd appname (Change the dierctory name to the new appname created)
+Step 6 = npm i (just simply install npm only)
+Step 7 = code . (for directly opening Vs Code)
